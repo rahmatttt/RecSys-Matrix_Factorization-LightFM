@@ -1,2 +1,2 @@
-# RecSys_Matrix_Factorization
-Create a collaborative filtering recommender system using several method
+# Recommender System
+Create recommender system using several method
